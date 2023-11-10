@@ -1,7 +1,4 @@
-```
-Name: ALDRIN LIJO J E
-Register Number: 212222240007
-```
+
 # Experiment 07 Encoders and decoders 
 ### AIM: 
 To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
@@ -90,6 +87,10 @@ D7 = X Y Z
 
 
 ### PROGRAM 
+```
+NAME : JAYAKRISHNAN L B L
+REG NO : 212222230052
+```
 ##### Encoder:
 ```
 module encoder(a0,a1,a2,y0,y1,y2,y3,y4,y5,y6,y7);
